@@ -1,0 +1,29 @@
+{
+  "Hashiras": [
+    {
+      "id": 1,
+      "name": "Kyojuro Rengoku",
+      "pilar": "Fuego"
+    },
+    {
+      "id": 2,
+      "name": "Mistsuri Kanroji",
+      "pilar": "Amor"
+    },
+    {
+      "id": 3,
+      "name": "Sanemi Shinazugawa",
+      "pilar": "Viento"
+    },
+    {
+      "id": 4,
+      "name": "Giyu Tomioka",
+      "pilar": "Agua"
+    },
+    {
+      "id": 5,
+      "name": "Shinobu Kocho",
+      "pilar": "Insecto"
+    }
+  ]
+}
